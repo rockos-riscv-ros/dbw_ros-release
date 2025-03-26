@@ -1,0 +1,132 @@
+ros-jazzy-ds-dbw-joystick-demo (2.3.2-1trixie) trixie; urgency=high
+
+  * Add AEB precharge control to brake command and joystick demo
+  * Contributors: Kevin Hallenbeck
+
+ -- Kevin Hallenbeck <khallenbeck@dataspeedinc.com>  Mon, 17 Feb 2025 16:00:00 -0000
+
+ros-jazzy-ds-dbw-joystick-demo (2.3.1-1trixie) trixie; urgency=high
+
+
+
+ -- Kevin Hallenbeck <khallenbeck@dataspeedinc.com>  Tue, 17 Dec 2024 16:00:00 -0000
+
+ros-jazzy-ds-dbw-joystick-demo (2.3.0-1trixie) trixie; urgency=high
+
+  * Remove deprecated turn signal from MiscReport and MiscCmd
+  * Contributors: Kevin Hallenbeck
+
+ -- Kevin Hallenbeck <khallenbeck@dataspeedinc.com>  Mon, 11 Nov 2024 16:00:00 -0000
+
+ros-jazzy-ds-dbw-joystick-demo (2.2.3-1trixie) trixie; urgency=high
+
+
+
+ -- Kevin Hallenbeck <khallenbeck@dataspeedinc.com>  Sun, 29 Sep 2024 16:00:00 -0000
+
+ros-jazzy-ds-dbw-joystick-demo (2.2.2-1trixie) trixie; urgency=high
+
+
+
+ -- Kevin Hallenbeck <khallenbeck@dataspeedinc.com>  Sun, 08 Sep 2024 16:00:00 -0000
+
+ros-jazzy-ds-dbw-joystick-demo (2.2.1-1trixie) trixie; urgency=high
+
+
+
+ -- Kevin Hallenbeck <khallenbeck@dataspeedinc.com>  Sun, 11 Aug 2024 16:00:00 -0000
+
+ros-jazzy-ds-dbw-joystick-demo (2.2.0-1trixie) trixie; urgency=high
+
+  * Separate turn signal messages with diagnostics
+    Keep functionality in misc cmd/report for a while to ease the transition
+  * Contributors: Kevin Hallenbeck
+
+ -- Kevin Hallenbeck <khallenbeck@dataspeedinc.com>  Tue, 16 Jul 2024 16:00:00 -0000
+
+ros-jazzy-ds-dbw-joystick-demo (2.1.16-1trixie) trixie; urgency=high
+
+
+
+ -- Kevin Hallenbeck <khallenbeck@dataspeedinc.com>  Sun, 16 Jun 2024 16:00:00 -0000
+
+ros-jazzy-ds-dbw-joystick-demo (2.1.15-1trixie) trixie; urgency=high
+
+
+
+ -- Kevin Hallenbeck <khallenbeck@dataspeedinc.com>  Thu, 06 Jun 2024 16:00:00 -0000
+
+ros-jazzy-ds-dbw-joystick-demo (2.1.14-1trixie) trixie; urgency=high
+
+
+
+ -- Kevin Hallenbeck <khallenbeck@dataspeedinc.com>  Tue, 28 May 2024 16:00:00 -0000
+
+ros-jazzy-ds-dbw-joystick-demo (2.1.13-1trixie) trixie; urgency=high
+
+
+
+ -- Kevin Hallenbeck <khallenbeck@dataspeedinc.com>  Sun, 12 May 2024 16:00:00 -0000
+
+ros-jazzy-ds-dbw-joystick-demo (2.1.12-1trixie) trixie; urgency=high
+
+
+
+ -- Kevin Hallenbeck <khallenbeck@dataspeedinc.com>  Sun, 31 Mar 2024 16:00:00 -0000
+
+ros-jazzy-ds-dbw-joystick-demo (2.1.11-1trixie) trixie; urgency=high
+
+  * Use system enable/disable buttons when mode-sync is inactive
+  * Contributors: Kevin Hallenbeck
+
+ -- Kevin Hallenbeck <khallenbeck@dataspeedinc.com>  Mon, 04 Mar 2024 16:00:00 -0000
+
+ros-jazzy-ds-dbw-joystick-demo (2.1.10-1trixie) trixie; urgency=high
+
+  * Add missing rclcpp_components dependency to package.xml
+  * Contributors: Kevin Hallenbeck
+
+ -- Kevin Hallenbeck <khallenbeck@dataspeedinc.com>  Mon, 26 Feb 2024 16:00:00 -0000
+
+ros-jazzy-ds-dbw-joystick-demo (2.1.9-1trixie) trixie; urgency=high
+
+
+
+ -- Kevin Hallenbeck <khallenbeck@dataspeedinc.com>  Thu, 22 Feb 2024 16:00:00 -0000
+
+ros-jazzy-ds-dbw-joystick-demo (2.1.8-1trixie) trixie; urgency=high
+
+
+
+ -- Kevin Hallenbeck <khallenbeck@dataspeedinc.com>  Mon, 19 Feb 2024 16:00:00 -0000
+
+ros-jazzy-ds-dbw-joystick-demo (2.1.7-1trixie) trixie; urgency=high
+
+  * Add more documentation for DBW2 game-controller joystick-demo
+  * Steering wheel angle as degrees instead of radians
+  * Contributors: Kevin Hallenbeck
+
+ -- Kevin Hallenbeck <khallenbeck@dataspeedinc.com>  Sun, 11 Feb 2024 16:00:00 -0000
+
+ros-jazzy-ds-dbw-joystick-demo (2.1.6-1trixie) trixie; urgency=high
+
+  * Refactor
+  * Fix joy device_id
+  * Contributors: Kevin Hallenbeck
+
+ -- Kevin Hallenbeck <khallenbeck@dataspeedinc.com>  Mon, 15 Jan 2024 16:00:00 -0000
+
+ros-jazzy-ds-dbw-joystick-demo (2.1.5-1trixie) trixie; urgency=high
+
+
+
+ -- Kevin Hallenbeck <khallenbeck@dataspeedinc.com>  Tue, 02 Jan 2024 16:00:00 -0000
+
+ros-jazzy-ds-dbw-joystick-demo (2.1.4-1trixie) trixie; urgency=high
+
+  * Single package for all platforms with new DBW2 CAN API
+  * Contributors: Kevin Hallenbeck
+
+ -- Kevin Hallenbeck <khallenbeck@dataspeedinc.com>  Tue, 12 Dec 2023 16:00:00 -0000
+
+
